@@ -1,20 +1,4 @@
-## My Library
-<hr/>
+# Overview
 
-### Categories
-- [Artificial Intelligence]()
-    - [Machine Learning]()
-- [Microservice & API]()
-### Languages
-- [English]()
-- [فارسی]()
+You can find my favorite resources like books and articles on programming, computer science, artificial intelligence and etc. here.
 
-<hr/>
-
-### English books
-### Artificial Intelligence
-### Machine Learning
-- [Mathematics for Machine Learning](https://mml-book.github.io/)
-
-### Microservice & API
-- [Programming Web Services With SOAP](https://www.amazon.com/Programming-Services-SOAP-James-Snell/dp/0596000952)
